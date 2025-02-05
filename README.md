@@ -1,4 +1,4 @@
-## FRACTION AI AUTO BOT
+
 JOIN MY TELEGRAM CHANNEL https://t.me/Offical_Im_kazuha
 **Fraction AI Auto Bot**
 
@@ -38,7 +38,7 @@ You'll need a significant amount of $ETH on Sepolia, as this testnet involves ba
 ### LINUX
 1. Clone project repository
    ```
-   git clone https://github.com/airdropinsiders/FractionAi-Auto-Bo.git && cd FractionAi-Auto-Bo
+   git clone https://github.com/kAZUHA787/FractionAi-Auto-Bo.git && cd FractionAi-Auto-Bo
    ```
 2. Install Dependencies & Setup Accounts
    ```
