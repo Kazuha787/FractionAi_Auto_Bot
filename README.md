@@ -38,7 +38,7 @@ You'll need a significant amount of $ETH on Sepolia, as this testnet involves ba
 ### LINUX
 1. Clone project repository
    ```
-   git clone https://github.com/kAZUHA787/FractionAi-Auto-Bo.git && cd FractionAi-Auto-Bo
+   git clone https://github.com/Kazuha787/FractionAi-Auto-Bot.git && cd FractionAi-Auto-Bot
    ```
 2. Install Dependencies & Setup Accounts
    ```
