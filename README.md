@@ -25,7 +25,7 @@ You'll need a significant amount of $ETH on Sepolia, as this testnet involves ba
 - Node JS
 - Wallet Funded with Eth Sepolia
 
-## BOT FEATURE
+## BOT FEATURE.
 
 - Multi Account 
 - Support PK
